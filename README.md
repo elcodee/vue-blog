@@ -36,7 +36,7 @@
 
 <a href="https://github.com/elcodee/vue-blog">
   <center>
-    <img src="/meetUsLanding.png" alt="Logo" width="auto" height="200">
+    <img src="/vue-blog.png" alt="Logo" width="auto" height="200">
   </center>
   </a>
 
