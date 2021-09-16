@@ -5,10 +5,10 @@
     <img src="/chatAppIcon.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Meet Us</h3>
+  <h3 align="center">Vue Blog Example</h3>
 
   <p align="center">
-    Simple Web Chat App With Someone You Love :)
+    Simple Fetch Blog Post Data
   </p>
 </p>
 
