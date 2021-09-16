@@ -1,9 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/elcodee/vue-blog">
-    <img src="/chatAppIcon.png" alt="Logo" width="100" height="100">
-  </a>
 
   <h3 align="center">Vue Blog Example</h3>
 
